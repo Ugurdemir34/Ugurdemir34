@@ -4,10 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-My software career started back in 2013. I continued to improve myself even more by adding a university education and various work experiences on top of the software training I have received since high school. Problem-solving and development is my passion. For this reason, I am constantly improving myself and I continue my career with the goal of writing code in real terms. I am also interested in science, art, and various leisure time activities on top of software. my software skills \* Mostly Microsoft technologies such as C#, .Net Core, Asp .NET MVC, EF Core, Visual Studio \* Version Control Systems: Git, TFS \* Databases: MSSQL, MongoDB, \* Other: Approaches such as Microservice, OOP, SOLID, CQRS, DDD...
+My software career started back in 2013. I continued to improve myself even more by adding a university education and various work experiences on top of the software training I have received since high school. Problem-solving and development is my passion. For this reason, I am constantly improving myself and I continue my career with the goal of writing code in real terms. I am also interested in science, art, and various leisure time activities on top of software. my software skills 
+* Mostly Microsoft technologies such as C#, .Net Core, Asp .NET MVC, EF Core, Visual Studio
+* Version Control Systems: Git, TFS
+* Databases: MSSQL, MongoDB,
+* Other: Approaches such as Microservice, OOP, SOLID, CQRS, DDD...
 
-* 🌍  I'm based in İstanbul
-* ✉️  You can contact me at [ugurdemir551@gmail.com](mailto:ugurdemir551@gmail.com)
+
+
+
+ 🌍  I'm based in İstanbul 
+ 
+ ✉️  You can contact me at [ugurdemir551@gmail.com](mailto:ugurdemir551@gmail.com)
 
 <a href="https://www.github.com/ugurdemir34" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ugurdemir34?logo=github&style=for-the-badge&color=22c55e&labelColor=27272a" /></a>
